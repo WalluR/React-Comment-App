@@ -1,0 +1,12 @@
+.Label{
+  margin: 2px;
+  align-items: center;
+  font-style: italic;
+
+}
+.Input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}

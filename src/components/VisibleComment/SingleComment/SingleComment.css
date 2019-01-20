@@ -1,0 +1,15 @@
+.Text{
+  margin: 2px;
+  align-items: center;
+  font-style: italic;
+  color:black;
+  font-weight: bold;
+
+}
+.Time {
+  float: right;
+  width: 10em;
+  margin-right: 1em;
+  font-size: 10px;
+
+}
