@@ -9,3 +9,7 @@ Clone git repo and use command :
 Then, start with
 
 ### `npm start`
+
+You can also test this app with heroku : 
+
+### 'https://comment10.herokuapp.com/' 
